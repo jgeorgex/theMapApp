@@ -1,11 +1,10 @@
 language: node_js
-node_js: - node
+node_js: -node
 
 install:
   - npm ci
 
 script:
-  -  yarn test
+  - yarn test
 
-notifications:
-  email :false
+notifications: email :false

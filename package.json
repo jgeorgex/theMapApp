@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "jest": "^25.1.0",
-    "node_js": "13.6.0"
+    "node_js": "v12.14.3"
   },
   "scripts": {
     "test": "jest"

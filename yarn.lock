@@ -2326,6 +2326,11 @@ node-notifier@^6.0.0:
     shellwords "^0.1.1"
     which "^1.3.1"
 
+node_js@12.14.1:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/node_js/-/node_js-0.1.0.tgz#d818b6ccffbfbdb023e0a38bee43170a7604aef4"
+  integrity sha1-2Bi2zP+/vbAj4KOL7kMXCnYErvQ=
+
 normalize-path@^2.1.1:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/normalize-path/-/normalize-path-2.1.1.tgz#1ab28b556e198363a8c1a6f7e6fa20137fe6aed9"

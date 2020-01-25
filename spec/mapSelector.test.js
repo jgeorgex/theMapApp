@@ -1,5 +1,5 @@
 const selectCountry = require("../public/javascripts/mapSelector");
 
-test("adds 1 + 2 to equal 3", () => {
+test("returs France when France is selected", () => {
   expect(selectCountry("France")).toBe("France");
 });

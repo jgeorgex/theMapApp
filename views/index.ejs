@@ -10,5 +10,14 @@
       Welcome to <%= title %>, see where you've been and where you're going to
       go!
     </p>
+    <form>
+      Select the countries you have traveled to:
+      <select id="countriesList" onchange="selectedCountry()">
+        <option>France</option>
+        <option>Germany</option>
+        <option>Spain</option>
+      </select>
+      <p>You selected: <input type="text" id"country" size="20"></p>
+    </form>
   </body>
 </html>

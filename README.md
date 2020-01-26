@@ -1,10 +1,12 @@
 ## The Map App
 
-WORK IN PROGRESS
+<b>WORK IN PROGRESS<b>
 
-The Map App will be a web app that will let users input what countries in the world they have travelled to. When they have the app will show them how much of the world they have sen as a % and give them a list of countries they have yet to visit. So they can find inspiration for where they would like to go to next.
+The Map App will be a web app that lets users input what countries in the world they have travelled to. When they have the app will show them how much of the world they have seen as a % and give them a list of countries they have yet to visit. So they can find inspiration for where they would like to go to next.
 
-This project is an exercise to practice with Java Script. The plan is to build The Mapp App using TDD. And following an Agile methodology (of sorts, this is a solo project) using a Trello board to track progress.
+This project is an exercise to practice with Java Script along with Node, Express and Heroku. The plan is to build The Mapp App using TDD. And following an Agile methodology (of sorts, this is a solo project) using a Trello board to track progress.
+
+The project will be available at https://the-map-app.herokuapp.com/
 
 ## User Stories
 

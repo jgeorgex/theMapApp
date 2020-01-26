@@ -1,17 +1,36 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <style>
+      body {
+        background: skyblue;
+        font-family: veranda;
+        color: #fff;
+        padding: 30px;
+      }
+      h1 {
+        font-size: 48px;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        text-align: center;
+      }
+      p {
+        font-size: 16px;
+        text-align: center;
+      }
+      form {
+        text-align: center;
+      }
+    </style>
     <title><%= title %></title>
     <link rel="stylesheet" href="/stylesheets/style.css" />
   </head>
   <body>
-    <script src="../public/javascripts/mapSelector.js"></script>
     <h1><%= title %></h1>
-    <p>
-      Welcome to <%= title %>, see where you've been and where you're going to
-      go!
-    </p>
+    <p>THIS IS A WORK IN PROGRESS COME BACK SOON :-) <br /></p>
     <form>
+      Welcome to <%= title %>, see where you've been and where you're going to
+      go! <br />
       Select the countries you have traveled to:
       <select id="countriesList" onchange="selectedCountry()">
         <option>France</option>

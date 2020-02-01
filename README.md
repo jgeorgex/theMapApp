@@ -29,3 +29,9 @@ I can view a percentage of the world’s countries I’ve visited <br>
 As a user <br>
 So I can get inspiration for where I may travel to next <br>
 I can view a list of countries I have not yet visited <br>
+
+## Technologies Used
+
+Javascript, Node, Express, Jest
+
+## Instructions
